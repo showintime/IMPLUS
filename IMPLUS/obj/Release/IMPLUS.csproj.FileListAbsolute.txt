@@ -1,0 +1,10 @@
+C:\Users\97420\source\repos\IMPLUS\IMPLUS\bin\Release\IMPLUS.exe.config
+C:\Users\97420\source\repos\IMPLUS\IMPLUS\bin\Release\IMPLUS.exe
+C:\Users\97420\source\repos\IMPLUS\IMPLUS\bin\Release\IMPLUS.pdb
+C:\Users\97420\source\repos\IMPLUS\IMPLUS\obj\Release\IMPLUS.Properties.Resources.resources
+C:\Users\97420\source\repos\IMPLUS\IMPLUS\obj\Release\IMPLUS.csproj.GenerateResource.cache
+C:\Users\97420\source\repos\IMPLUS\IMPLUS\obj\Release\IMPLUS.csproj.CoreCompileInputs.cache
+C:\Users\97420\source\repos\IMPLUS\IMPLUS\obj\Release\IMPLUS.exe
+C:\Users\97420\source\repos\IMPLUS\IMPLUS\obj\Release\IMPLUS.pdb
+C:\Users\97420\source\repos\IMPLUS\IMPLUS\obj\Release\IMPLUS.csprojAssemblyReference.cache
+C:\Users\97420\source\repos\IMPLUS\IMPLUS\obj\Release\IMPLUS.Form1.resources
